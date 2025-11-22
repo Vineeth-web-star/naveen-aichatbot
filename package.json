@@ -1,8 +1,5 @@
 {
-  "name": "naveen-ai-chatbot",
+  "name": "naveen-aichatbot",
   "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "openai": "4.12.1"
-  }
+  "type": "module"
 }
